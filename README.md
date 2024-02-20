@@ -13,7 +13,7 @@ Data| Machine Learning| NLP | LLM| LLMOps| DevOps| SQL| Statistics| AWS| Academi
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/gurpreetkaurjethra/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/GURPREET-100000?style=plastic&logo=Linkedin&logoColor=4DA9E7&labelColor=black&color=black'/></a>
 - 😄 Pronouns: **Gurpreet 😊**
 - ⚡ Fun fact: **Keep Smiling & Shining Always!**
-- 🎯 My Speciality: **I love to code and solving problems. Love Challenges & problems 💪**
+- 🎯 My Speciality: **I love to code and solve problems. Love Challenges & AI Technology 💪**
 
 
 ***Thanks for visiting my profile.***
