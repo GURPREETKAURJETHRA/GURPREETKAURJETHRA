@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm, GURPREET KAUR JETHRA 👩‍🎓
-**Microsoft Azure Cert. Data Scientist🎓| Former AA: IIM-A | Former Data Analyst: Central Govt. Of India | Generative AI Researcher| Executive-PGP in Artificial Intelligence: IIIT-B| M.Tech in CSE| B.Tech in CSE| Hackathon Winner| Open Source Contributor| Technical Writer| Deep Learning| Computer Vision| Data Science| Big Data| Machine Learning| NLP | LLM| LLMOps| DevOps| SQL| Statistics| AWS| MLOps| Artificial Intelligence (AI) | Academic Scholar🏆**
+**Microsoft Azure Cert. Data Scientist🎓| Former Research & Academic Associate: IIM-A | Former Data Analyst: Central Govt. Of India | Generative AI Researcher| Executive-PGP in Artificial Intelligence: IIIT-B| M.Tech in CSE| B.Tech in CSE| Hackathon Winner| Open Source Contributor| Technical Writer| Deep Learning| Computer Vision| Data Science| Big Data| Machine Learning| NLP | LLM| LLMOps| DevOps| SQL| Statistics| AWS| MLOps| Artificial Intelligence (AI) | Scholar🏆**
 
 - 🔭 I’m currently working on **Generative AI, NLP, Deep Learning, Machine Learning, Computer Vision, LLM, Data Analytics & Data Science Projects**                       
 - 🌱 I’m currently learning **MLOps, LLMOps**
